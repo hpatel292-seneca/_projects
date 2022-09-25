@@ -212,5 +212,8 @@ footer i:hover{
     #sample-img-div img{
         width: 40%
     }
+    .icon-size{
+        font-size: 6.5em;
+    }
 }
 
